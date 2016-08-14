@@ -21,18 +21,19 @@ Pevals OTOTO
 --- .class #define
 
   <h3>1. What is it?</h3>
-   The body mass index (or BMI) is a measure which shows whether people have the right weight for their height. 
+  Body mass index (BMI) is a simple index of weight-for-height that is commonly used to classify overweight and obesity in adults. 
 
 
 --- .class #why
   <h3>2.Why should I care?</h3>
    The BMI is the tool most commonly used to estimate overweight and obesity. 
 
-
 --- .class #how
 
   <h3>3.How to calculate?</h3>
-   BMI (Body Mass Index) is the calculation of weight (kilos) divided by height squared.
+   BMI is the calculation of weight (kilos) divided by height squared.
+   ![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png)
+   
 
 --- .class #mine
 ## Use the web app to get your BMI
